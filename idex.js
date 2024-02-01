@@ -1,1 +1,1 @@
-console.log("Hello git, i am learning you")
+console.log("Hello git, i am learning git trom skillAcademy")
